@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Oleksandr Skliar](https://up.htmlacademy.ru/javascript/18/user/911577).
-* Наставник: `Александр Смирнов`.
+- Студент: [Oleksandr Skliar](https://up.htmlacademy.ru/javascript/18/user/911577).
+- Наставник: [Александр Смирнов](https://htmlacademy.ru/profile/id516117).
 
 ---
 
